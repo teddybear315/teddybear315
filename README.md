@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teddybear315
 - 👀 I’m interested in DayZ and programming
-- 🌱 I’m currently learning the depths of [discord.py](https://github.com/Rapptz/discord.py)
-- 💞️ I’m looking to collaborate on [YLCB](https://github.com/teddybear315/YourLocalChatBot)
+- 🌱 I’m currently learning the depths of [OS Dev](https://https://wiki.osdev.org/Main_Page)
+- 💞️ I’m looking to collaborate on [Vader](https://github.com/teddybear315/Vader)
 - 📫 How to reach me: twitter/insta/tiktok @somerapperkid
